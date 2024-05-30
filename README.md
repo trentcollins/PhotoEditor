@@ -42,8 +42,8 @@ Invert:
 
 
 Skills:
-  Linked List
-  Data Structures
-  File Reading/Writing/Formating
-  Memory Allocation
+  Linked List,
+  Data Structures,
+  File Reading/Writing/Formating,
+  Memory Allocation,
   Command Line Programming
